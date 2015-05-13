@@ -1,0 +1,13 @@
+{
+    "name": "vendor/flight-booking",
+    "description": "Description of project flight-booking.",
+    "authors": [
+        {
+            "name": "moeller",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "jms/serializer": "0.16.0"
+    }
+}
